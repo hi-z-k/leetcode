@@ -18,4 +18,12 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
