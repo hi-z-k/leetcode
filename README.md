@@ -43,4 +43,12 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
