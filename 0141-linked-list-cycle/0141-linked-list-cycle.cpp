@@ -15,7 +15,7 @@ public:
             if(head==nullptr){
                 return false;
             }
-            else if(!address.count(head)){
+            if(!address.count(head)){
                 address[head] = 1;
                 head = head->next;
             }
