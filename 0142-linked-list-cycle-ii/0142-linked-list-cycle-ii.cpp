@@ -13,21 +13,14 @@ public:
         map<ListNode*,int> address;
         int i = 0;
         while(true){
-            if(head==nullptr){
-                return nullptr;
-            }
+            if(head==nullptr) return nullptr;
+            
             if(!address.count(head)){
                 address[head] = i++;
                 head = head->next;
             }
-            else{
-                return head;
-            }
+            else return head;
         }
-        return head;
-    }
-
-
-        
-    
+        //return head;
+    }  
 };
