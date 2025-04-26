@@ -22,7 +22,6 @@ public:
         for(int d: digits){
             reverse += d*pow(10,(power));
             if (!(isInt(reverse))) return 0;
-            cout << d << endl;
             power--;
         }
         int rev = (int)reverse;
