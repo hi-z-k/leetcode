@@ -9,6 +9,7 @@ A collection of LeetCode questions I have solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hi-z-k/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hi-z-k/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/hi-z-k/leetcode/tree/master/0485-max-consecutive-ones) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
@@ -70,4 +71,5 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hi-z-k/leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
