@@ -1,9 +1,8 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-    string word = "";
-    word = s[0];
-    vector<string> uniqueWords;
+    int wordL = 1;
+    vector<int> lengths;
     map<char,int> letters;
     int a = 0;
     int b = 1;
@@ -11,25 +10,25 @@ public:
     while (a < s.size()) {
         char letter  = s[b];
         if (letters[letter] == 1 || b == s.size()) {
-            uniqueWords.push_back(word);
+            lengths.push_back(wordL);
             a++;
-            word = "";
-            word += s[a];
+            wordL = 1;
             b = a + 1;
             letters = {};
             letters[s[a]] = 1;
         }
         else {
             letters[letter] = 1;
-            word += letter;
+            wordL += 1;
             b++;
         }
     }
     int maxLength = 0;
-    for (string word: uniqueWords) {
-        int len = word.size();
-        if (maxLength < len) maxLength = len;
+    for (int i: lengths) {
+        if (maxLength < i) maxLength = i;
     }
+    cout << maxLength << endl;
     return maxLength;
 }
+
 };
