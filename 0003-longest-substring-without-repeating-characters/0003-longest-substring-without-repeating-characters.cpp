@@ -12,7 +12,6 @@ public:
         char letter  = s[b];
         if (letters[letter] == 1 || b == s.size()) {
             uniqueWords.push_back(word);
-            cout << word << endl;
             a++;
             word = "";
             word += s[a];
@@ -31,7 +30,6 @@ public:
         int len = word.size();
         if (maxLength < len) maxLength = len;
     }
-    cout << maxLength << endl;
     return maxLength;
 }
 };
