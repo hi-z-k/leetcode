@@ -48,6 +48,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hi-z-k/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/hi-z-k/leetcode/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0007-reverse-integer](https://github.com/hi-z-k/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/hi-z-k/leetcode/tree/master/0069-sqrtx) |
 ## Sliding Window
 |  |
 | ------- |
