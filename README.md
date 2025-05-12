@@ -76,6 +76,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hi-z-k/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/hi-z-k/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hi-z-k/leetcode/tree/master/0069-sqrtx) |
 ## Sliding Window
