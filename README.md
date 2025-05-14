@@ -39,6 +39,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/hi-z-k/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Design
@@ -91,10 +92,12 @@ A collection of LeetCode questions I have solved
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -103,5 +106,6 @@ A collection of LeetCode questions I have solved
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
