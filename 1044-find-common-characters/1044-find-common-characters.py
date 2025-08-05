@@ -22,7 +22,6 @@ class Solution:
 
 
     def commonChars(self, words: list[str]) -> list[str]:
-        if len(words)== 0: return []
         superSet = self.count(words[0])
         for word in words[1:]:
             wordFreq = self.count(word)
