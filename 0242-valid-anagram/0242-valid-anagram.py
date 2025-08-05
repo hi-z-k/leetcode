@@ -10,7 +10,7 @@ class Solution:
         
         freqDictT = self.frequencyDict(t)
         for char in s:
-            if (char in freqDictT) and (freqDictT[char] > 0):
+            if freqDictT.get(char,0):
                 freqDictT[char] -= 1
                 continue
             return False
