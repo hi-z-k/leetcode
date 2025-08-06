@@ -23,6 +23,7 @@ A collection of LeetCode questions I have solved
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/hi-z-k/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hi-z-k/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/hi-z-k/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Simulation
@@ -78,6 +79,7 @@ A collection of LeetCode questions I have solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/hi-z-k/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/hi-z-k/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hi-z-k/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/hi-z-k/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/hi-z-k/leetcode/tree/master/0242-valid-anagram) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 ## Math
@@ -87,6 +89,7 @@ A collection of LeetCode questions I have solved
 | [0009-palindrome-number](https://github.com/hi-z-k/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hi-z-k/leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/hi-z-k/leetcode/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
