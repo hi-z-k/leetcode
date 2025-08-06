@@ -2,10 +2,8 @@ class Solution:
     def isomorpic(self, s: str, t: str):
         letterMap = {}
         for i in range(len(s)):
-            if s[i] in letterMap:
-                if t[i] != letterMap[s[i]]:
-                    return False
-                continue
+            if s[i] in letterMap and t[i] != letterMap[s[i]]:
+                return False
             else:
                 letterMap[s[i]] = t[i]
         return True
