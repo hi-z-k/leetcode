@@ -6,10 +6,10 @@ class Solution:
         return sum
 
     def isHappy(self, n: int) -> bool:
-        alreadyFound = {}
+        alreadyFound = set()
         while (n != 1):
             if (n not in alreadyFound):
-                alreadyFound[n] = 1
+                alreadyFound.add(n)
                 n = self.happy(n)
             else:
                 return False
