@@ -1,17 +1,15 @@
 class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
-        idxList1 = {}
-        for i,word in enumerate(list1):
-            idxList1[word] = i
+        idxList1 = {word: i for i,word in enumerate(list1)}
 
         minVal = len(list1)+len(list2)
-        minSet = set() 
+        minList = []
         for j,word in enumerate(list2):
             if word in idxList1:
                 wordVal = j + idxList1[word]
                 if wordVal < minVal:
-                    minSet = {word}
+                    minList = [word]
                     minVal = wordVal
                 elif wordVal == minVal:
-                    minSet.add(word)
-        return list(minSet)
+                    minList.append(word)
+        return minList
