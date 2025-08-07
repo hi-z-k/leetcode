@@ -4,8 +4,7 @@ class Solution:
         for i in range(len(s)):
             if s[i] in letterMap and t[i] != letterMap[s[i]]:
                 return False
-            else:
-                letterMap[s[i]] = t[i]
+            letterMap[s[i]] = t[i]
         return True
 
     def isIsomorphic(self, s: str, t: str) -> bool:
