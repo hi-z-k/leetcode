@@ -11,6 +11,7 @@ A collection of LeetCode questions I have solved
 | [0035-search-insert-position](https://github.com/hi-z-k/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/hi-z-k/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions I have solved
 | [0142-linked-list-cycle-ii](https://github.com/hi-z-k/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/hi-z-k/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Simulation
 |  |
@@ -57,11 +59,13 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0035-search-insert-position](https://github.com/hi-z-k/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hi-z-k/leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/hi-z-k/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions I have solved
 | [0202-happy-number](https://github.com/hi-z-k/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hi-z-k/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hi-z-k/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 ## Math
