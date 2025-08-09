@@ -3,7 +3,7 @@ class Solution:
         freqNums = Counter(nums)
         maxFrequency = max(freqNums.values())
         maxFreqEltCount = 0
-        for num in nums:
+        for num in freqNums:
             if freqNums[num] == maxFrequency:
-                maxFreqEltCount += 1
+                maxFreqEltCount += freqNums[num]
         return maxFreqEltCount
