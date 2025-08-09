@@ -6,6 +6,7 @@ A collection of LeetCode questions I have solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hi-z-k/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hi-z-k/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hi-z-k/leetcode/tree/master/0035-search-insert-position) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions I have solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hi-z-k/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hi-z-k/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/hi-z-k/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hi-z-k/leetcode/tree/master/0142-linked-list-cycle-ii) |
