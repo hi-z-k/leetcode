@@ -20,6 +20,7 @@ A collection of LeetCode questions I have solved
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions I have solved
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hi-z-k/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0169-majority-element](https://github.com/hi-z-k/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
