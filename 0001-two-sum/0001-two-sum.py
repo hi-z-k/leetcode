@@ -4,7 +4,6 @@ class Solution:
         for i, num in enumerate(nums):
             requireNum = target-num
             if requireNum in requiredBefore:
-                return [requiredBefore[requireNum],i]
-            else:
-                requiredBefore[num] = i
+                return [requiredBefore[requireNum], i]
+            requiredBefore[num] = i
         return []
