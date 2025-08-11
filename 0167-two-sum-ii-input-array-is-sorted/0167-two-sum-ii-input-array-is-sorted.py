@@ -3,10 +3,9 @@ class Solution:
         i = 0
         j = len(numbers)-1
         while i < j:
-            sum = numbers[i]+numbers[j]
-            if sum > target:
+            if numbers[i]+numbers[j] > target:
                 j-=1
-            elif sum < target:
+            elif numbers[i]+numbers[j] < target:
                 i+=1
             else:
                 return [i+1,j+1]
