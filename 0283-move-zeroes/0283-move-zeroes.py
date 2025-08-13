@@ -7,11 +7,8 @@ class Solution:
             numJ = nums[j]
             if numJ == 0 and numI == 0:
                 j += 1
+                continue
             elif numI == 0 and numJ != 0:
                 nums[i],nums[j] = nums[j], nums[i]
-                i += 1
-                j += 1
-            else:
-                i+=1
-                j+=1
-        return nums
+            i += 1
+            j += 1
