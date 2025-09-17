@@ -2,7 +2,6 @@ class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
         skillCounter = Counter(skill) 
         numPairs = len(skill)//2
-        alreadyProcessed = set()
         expectedSum = sum(skill)//numPairs
         chemistry = 0
         for num in skill:
