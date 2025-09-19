@@ -3,14 +3,11 @@ class Solution:
         i = 0
         j = int(c ** 0.5)
         while(i <= j):
-            print(i,j)
             sum = i ** 2 + j ** 2
-            diff = c - sum
-            if not diff: 
+            if sum == c: 
                 return True
-            elif diff < 0:
+            elif c < sum:
                 j -= 1
             else:
                 i += 1
-        print(i,j)
         return False
