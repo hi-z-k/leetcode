@@ -53,6 +53,7 @@ A collection of LeetCode questions I have solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/hi-z-k/leetcode/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions I have solved
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hi-z-k/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions I have solved
 | [0069-sqrtx](https://github.com/hi-z-k/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/hi-z-k/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/hi-z-k/leetcode/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Sliding Window
 |  |
 | ------- |
