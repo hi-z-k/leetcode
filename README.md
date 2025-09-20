@@ -16,6 +16,7 @@ A collection of LeetCode questions I have solved
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hi-z-k/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hi-z-k/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hi-z-k/leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/hi-z-k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hi-z-k/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hi-z-k/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions I have solved
 | [0035-search-insert-position](https://github.com/hi-z-k/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hi-z-k/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hi-z-k/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/hi-z-k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hi-z-k/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/hi-z-k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hi-z-k/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/hi-z-k/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions I have solved
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hi-z-k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/hi-z-k/leetcode/tree/master/0724-find-pivot-index) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hi-z-k/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
