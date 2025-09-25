@@ -11,6 +11,7 @@ A collection of LeetCode questions I have solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hi-z-k/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hi-z-k/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/hi-z-k/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hi-z-k/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions I have solved
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hi-z-k/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/hi-z-k/leetcode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
@@ -249,4 +251,8 @@ A collection of LeetCode questions I have solved
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/hi-z-k/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
