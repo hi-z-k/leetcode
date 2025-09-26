@@ -22,6 +22,7 @@ A collection of LeetCode questions I have solved
 | [0209-minimum-size-subarray-sum](https://github.com/hi-z-k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hi-z-k/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hi-z-k/leetcode/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hi-z-k/leetcode/tree/master/0155-min-stack) |
+| [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Binary Search
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hi-z-k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/hi-z-k/leetcode/tree/master/0724-find-pivot-index) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hi-z-k/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hi-z-k/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -263,4 +266,8 @@ A collection of LeetCode questions I have solved
 | [0053-maximum-subarray](https://github.com/hi-z-k/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hi-z-k/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hi-z-k/leetcode/tree/master/0152-maximum-product-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
