@@ -8,4 +8,4 @@ class Solution:
             return False
         
         else:
-            return self.isPowerOfFour(div)
+            return self.isPowerOfFour(intdiv)
