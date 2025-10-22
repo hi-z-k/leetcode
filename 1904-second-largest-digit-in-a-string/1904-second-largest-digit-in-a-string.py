@@ -1,15 +1,14 @@
 class Solution:
     def secondHighest(self, s: str) -> int:
-        maxNum = -1
-        secondNum = -1
+        maxN = float("-inf")
+        secondMax = float("-inf")
         for l in s:
             if not l.isalpha():
                 num = int(l)
-                maxNum = max(maxNum, num)
-        for l in s:
-            if not l.isalpha():
-                num = int(l)
-                if num == maxNum:
-                    continue
-                secondNum = max(secondNum, num)
-        return secondNum
+                if num > maxN:
+                    secondMax = maxN
+                    maxN = num
+                elif num > secondMax and num < maxN:
+                    secondMax = num
+        if secondMax == float("-inf"): return -1
+        return int(secondMax)
