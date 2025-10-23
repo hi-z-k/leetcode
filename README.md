@@ -104,6 +104,7 @@ A collection of LeetCode questions I have solved
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hi-z-k/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1904-second-largest-digit-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Stack
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions I have solved
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -298,4 +300,8 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hi-z-k/leetcode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
