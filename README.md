@@ -90,6 +90,7 @@ A collection of LeetCode questions I have solved
 | [0020-valid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hi-z-k/leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/hi-z-k/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/hi-z-k/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/hi-z-k/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hi-z-k/leetcode/tree/master/0242-valid-anagram) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/hi-z-k/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/hi-z-k/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0234-palindrome-linked-list) |
