@@ -16,6 +16,7 @@ A collection of LeetCode questions I have solved
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hi-z-k/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hi-z-k/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hi-z-k/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/hi-z-k/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hi-z-k/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hi-z-k/leetcode/tree/master/0169-majority-element) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions I have solved
 | [0020-valid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hi-z-k/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hi-z-k/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hi-z-k/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions I have solved
 | [0009-palindrome-number](https://github.com/hi-z-k/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hi-z-k/leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hi-z-k/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hi-z-k/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hi-z-k/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/hi-z-k/leetcode/tree/master/0258-add-digits) |
