@@ -72,6 +72,7 @@ A collection of LeetCode questions I have solved
 | [0567-permutation-in-string](https://github.com/hi-z-k/leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
+| [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/hi-z-k/leetcode/tree/master/0953-reverse-only-letters) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0258-add-digits](https://github.com/hi-z-k/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hi-z-k/leetcode/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## String
@@ -104,6 +106,7 @@ A collection of LeetCode questions I have solved
 | [0567-permutation-in-string](https://github.com/hi-z-k/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hi-z-k/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
+| [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/hi-z-k/leetcode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hi-z-k/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions I have solved
 | [0094-binary-tree-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/hi-z-k/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
