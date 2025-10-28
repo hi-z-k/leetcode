@@ -40,6 +40,7 @@ A collection of LeetCode questions I have solved
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hi-z-k/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hi-z-k/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/hi-z-k/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/hi-z-k/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions I have solved
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hi-z-k/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hi-z-k/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hi-z-k/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String Matching
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions I have solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hi-z-k/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hi-z-k/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/hi-z-k/leetcode/tree/master/1013-fibonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hi-z-k/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
