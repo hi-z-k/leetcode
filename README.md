@@ -83,6 +83,7 @@ A collection of LeetCode questions I have solved
 | [0258-add-digits](https://github.com/hi-z-k/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hi-z-k/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions I have solved
 | [1904-second-largest-digit-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Stack
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions I have solved
 | [0094-binary-tree-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/hi-z-k/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
