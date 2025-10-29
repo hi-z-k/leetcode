@@ -30,6 +30,7 @@ A collection of LeetCode questions I have solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/hi-z-k/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/hi-z-k/leetcode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hi-z-k/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/hi-z-k/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/0697-degree-of-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions I have solved
 | [0150-evaluate-reverse-polish-notation](https://github.com/hi-z-k/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hi-z-k/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/hi-z-k/leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions I have solved
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hi-z-k/leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/hi-z-k/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/hi-z-k/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hi-z-k/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/0697-degree-of-an-array) |
@@ -346,4 +349,8 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hi-z-k/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
