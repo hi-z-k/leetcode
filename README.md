@@ -47,6 +47,7 @@ A collection of LeetCode questions I have solved
 | [1720-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1720-crawler-log-folder) |
 | [1833-find-the-highest-altitude](https://github.com/hi-z-k/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/hi-z-k/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/hi-z-k/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions I have solved
 | [1013-fibonacci-number](https://github.com/hi-z-k/leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hi-z-k/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hi-z-k/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/hi-z-k/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
