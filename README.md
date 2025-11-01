@@ -44,6 +44,7 @@ A collection of LeetCode questions I have solved
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/hi-z-k/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hi-z-k/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hi-z-k/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions I have solved
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Linked List
@@ -227,6 +229,7 @@ A collection of LeetCode questions I have solved
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1904-second-largest-digit-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0169-majority-element](https://github.com/hi-z-k/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
