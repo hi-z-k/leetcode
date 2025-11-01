@@ -50,6 +50,7 @@ A collection of LeetCode questions I have solved
 | [1603-running-sum-of-1d-array](https://github.com/hi-z-k/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1720-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1720-crawler-log-folder) |
 | [1833-find-the-highest-altitude](https://github.com/hi-z-k/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hi-z-k/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions I have solved
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1904-second-largest-digit-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions I have solved
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hi-z-k/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/hi-z-k/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/hi-z-k/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2714-left-and-right-sum-differences](https://github.com/hi-z-k/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Greedy
 |  |
