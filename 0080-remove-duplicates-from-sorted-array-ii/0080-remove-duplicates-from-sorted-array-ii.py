@@ -1,14 +1,14 @@
-from collections import Counter
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        count = Counter(nums)
-        visited = set()
-        i = 0
-        for n in nums:
-            if n not in visited:
-                visited.add(n)
-                length = min(count[n],2)
-                for _ in range(length):
-                    nums[i] = n
-                    i += 1
-        return i
+        count = 1
+        j = 1
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i-1]:
+                count += 1
+            else:
+                count = 1
+            if count <= 2:
+                nums[j] = nums[i]
+                j+= 1
+        return j
+                
