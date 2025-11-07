@@ -293,6 +293,7 @@ A collection of LeetCode questions I have solved
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hi-z-k/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hi-z-k/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hi-z-k/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3568-find-the-key-of-the-numbers](https://github.com/hi-z-k/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Sliding Window
 |  |
 | ------- |
