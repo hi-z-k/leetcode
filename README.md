@@ -8,6 +8,7 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0001-two-sum](https://github.com/hi-z-k/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hi-z-k/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/hi-z-k/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hi-z-k/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hi-z-k/leetcode/tree/master/0035-search-insert-position) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hi-z-k/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/hi-z-k/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hi-z-k/leetcode/tree/master/0058-length-of-last-word) |
@@ -453,4 +455,8 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/hi-z-k/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hi-z-k/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
