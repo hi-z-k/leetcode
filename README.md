@@ -50,6 +50,7 @@ A collection of LeetCode questions I have solved
 | [1019-squares-of-a-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/hi-z-k/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1137-height-checker](https://github.com/hi-z-k/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions I have solved
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/hi-z-k/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/hi-z-k/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions I have solved
 ## Counting Sort
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/hi-z-k/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
