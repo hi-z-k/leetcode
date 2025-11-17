@@ -117,6 +117,7 @@ A collection of LeetCode questions I have solved
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/hi-z-k/leetcode/tree/master/3447-clear-digits) |
 ## String
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions I have solved
 | [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [3447-clear-digits](https://github.com/hi-z-k/leetcode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions I have solved
 | [2128-reverse-prefix-of-word](https://github.com/hi-z-k/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/hi-z-k/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3447-clear-digits](https://github.com/hi-z-k/leetcode/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
