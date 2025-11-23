@@ -67,6 +67,7 @@ A collection of LeetCode questions I have solved
 | [1833-find-the-highest-altitude](https://github.com/hi-z-k/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hi-z-k/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/hi-z-k/leetcode/tree/master/2486-most-frequent-even-element) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions I have solved
 | [0412-fizz-buzz](https://github.com/hi-z-k/leetcode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/hi-z-k/leetcode/tree/master/3447-clear-digits) |
 ## String
@@ -313,6 +315,7 @@ A collection of LeetCode questions I have solved
 | [1014-k-closest-points-to-origin](https://github.com/hi-z-k/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hi-z-k/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hi-z-k/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hi-z-k/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3568-find-the-key-of-the-numbers](https://github.com/hi-z-k/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Sliding Window
@@ -482,4 +485,8 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hi-z-k/leetcode/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
