@@ -59,6 +59,7 @@ A collection of LeetCode questions I have solved
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hi-z-k/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hi-z-k/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1598-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1598-crawler-log-folder) |
 | [1603-running-sum-of-1d-array](https://github.com/hi-z-k/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/hi-z-k/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1720-crawler-log-folder) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions I have solved
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/hi-z-k/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hi-z-k/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1598-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1598-crawler-log-folder) |
 | [1720-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1720-crawler-log-folder) |
 | [1904-second-largest-digit-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/hi-z-k/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions I have solved
 | [0739-daily-temperatures](https://github.com/hi-z-k/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/hi-z-k/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1598-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1598-crawler-log-folder) |
 | [1720-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1720-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/hi-z-k/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2128-reverse-prefix-of-word](https://github.com/hi-z-k/leetcode/tree/master/2128-reverse-prefix-of-word) |
