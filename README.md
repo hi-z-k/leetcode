@@ -160,6 +160,7 @@ A collection of LeetCode questions I have solved
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/hi-z-k/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2351-first-letter-to-appear-twice](https://github.com/hi-z-k/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions I have solved
 | [1904-second-largest-digit-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/hi-z-k/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2486-most-frequent-even-element](https://github.com/hi-z-k/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions I have solved
 | [0451-sort-characters-by-frequency](https://github.com/hi-z-k/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/hi-z-k/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2486-most-frequent-even-element](https://github.com/hi-z-k/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions I have solved
 | [0342-power-of-four](https://github.com/hi-z-k/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/hi-z-k/leetcode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hi-z-k/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/hi-z-k/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
