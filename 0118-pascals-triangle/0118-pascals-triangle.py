@@ -9,7 +9,6 @@ class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         pascalRow = Solution.pascalRow
         result = [[1],[1,1]]
-        recent = result[-1]
         if numRows == 1:
             return [[1]]
         for i in range(2,numRows):
