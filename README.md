@@ -64,6 +64,7 @@ A collection of LeetCode questions I have solved
 | [1598-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1598-crawler-log-folder) |
 | [1603-running-sum-of-1d-array](https://github.com/hi-z-k/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/hi-z-k/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hi-z-k/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1672-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hi-z-k/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Memoization
