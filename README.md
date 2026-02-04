@@ -333,6 +333,7 @@ A collection of LeetCode questions I have solved
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hi-z-k/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hi-z-k/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2469-convert-the-temperature](https://github.com/hi-z-k/leetcode/tree/master/2469-convert-the-temperature) |
 | [3568-find-the-key-of-the-numbers](https://github.com/hi-z-k/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Sliding Window
 |  |
