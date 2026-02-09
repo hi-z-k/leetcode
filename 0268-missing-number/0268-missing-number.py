@@ -1,8 +1,6 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        maxNum = len(nums)
-        nums = set(nums)
-        for num in range(maxNum+1):
-            if num not in nums:
-                return num
-        return -1
+        curr_sum = sum(nums)
+        n = len(nums)
+        ideal_sum = int(n * (n+1)/2)
+        return ideal_sum - curr_sum
