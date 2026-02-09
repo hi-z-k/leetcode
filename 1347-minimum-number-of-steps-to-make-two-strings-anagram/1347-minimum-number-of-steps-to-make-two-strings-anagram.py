@@ -4,6 +4,6 @@ class Solution:
         countT = Counter(t)
         diff = countT - countS
         total = 0
-        for n,m in diff.items():
+        for m in diff.values():
             total += m
         return total
