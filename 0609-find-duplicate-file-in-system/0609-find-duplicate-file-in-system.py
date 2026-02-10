@@ -1,7 +1,3 @@
-#29-
-# first sort out the data
-# split by space and destr to path, *files
-# from files, split by ( and remove the last ')'
 class Solution:
     def findDuplicate(self, paths: List[str]) -> List[List[str]]:
         data = defaultdict(list)
