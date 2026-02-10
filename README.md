@@ -205,6 +205,7 @@ A collection of LeetCode questions I have solved
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [2671-frequency-tracker](https://github.com/hi-z-k/leetcode/tree/master/2671-frequency-tracker) |
 ## Binary Search
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions I have solved
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [2671-frequency-tracker](https://github.com/hi-z-k/leetcode/tree/master/2671-frequency-tracker) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hi-z-k/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
