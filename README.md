@@ -53,6 +53,7 @@ A collection of LeetCode questions I have solved
 | [1046-max-consecutive-ones-iii](https://github.com/hi-z-k/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1122-relative-sort-array) |
 | [1137-height-checker](https://github.com/hi-z-k/leetcode/tree/master/1137-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/hi-z-k/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions I have solved
 | [0953-reverse-only-letters](https://github.com/hi-z-k/leetcode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/hi-z-k/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/hi-z-k/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hi-z-k/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hi-z-k/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1598-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1598-crawler-log-folder) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions I have solved
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/hi-z-k/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hi-z-k/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions I have solved
 | [0347-top-k-frequent-elements](https://github.com/hi-z-k/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hi-z-k/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/hi-z-k/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hi-z-k/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
