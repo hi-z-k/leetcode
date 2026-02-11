@@ -37,6 +37,7 @@ A collection of LeetCode questions I have solved
 | [0347-top-k-frequent-elements](https://github.com/hi-z-k/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hi-z-k/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/hi-z-k/leetcode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0155-min-stack](https://github.com/hi-z-k/leetcode/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hi-z-k/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/hi-z-k/leetcode/tree/master/2671-frequency-tracker) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions I have solved
 | [0347-top-k-frequent-elements](https://github.com/hi-z-k/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hi-z-k/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hi-z-k/leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions I have solved
 | [0258-add-digits](https://github.com/hi-z-k/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hi-z-k/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/hi-z-k/leetcode/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hi-z-k/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/hi-z-k/leetcode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/hi-z-k/leetcode/tree/master/1013-fibonacci-number) |
@@ -542,4 +546,8 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/hi-z-k/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
