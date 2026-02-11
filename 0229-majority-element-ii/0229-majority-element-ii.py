@@ -1,10 +1,9 @@
-from collections import Counter
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        count = Counter(nums)
-        freq = int(len(nums)/3)
-        output = []
-        for n in count:
-            if freq < count[n]:
-                output.append(n)
-        return output
+        countNum = Counter(nums)
+        minCount = int(len(nums)/3)
+        majority = []
+        for num, count in countNum.items():
+            if count > minCount:
+                majority.append(num)
+        return majority
