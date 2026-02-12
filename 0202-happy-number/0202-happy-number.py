@@ -1,16 +1,20 @@
 class Solution:
-    def happy(self, n:int):
-        sum = 0
-        for digit in str(n):
-            sum += int(digit)**2
-        return sum
-
+    @staticmethod
+    def calculate(num):
+        result = 0
+        for digit in list(str(num)):
+            result += int(digit) ** 2
+        return result
+    
     def isHappy(self, n: int) -> bool:
-        alreadyFound = set()
-        while (n != 1):
-            if (n not in alreadyFound):
-                alreadyFound.add(n)
-                n = self.happy(n)
-            else:
+        calc = Solution.calculate
+        results = set()
+        while True:
+            n = calc(n)
+            if n in results:
                 return False
+            elif n == 1:
+                break
+            else:
+                results.add(n)
         return True
