@@ -46,6 +46,7 @@ A collection of LeetCode questions I have solved
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hi-z-k/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/hi-z-k/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/hi-z-k/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/hi-z-k/leetcode/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/hi-z-k/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hi-z-k/leetcode/tree/master/0739-daily-temperatures) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0661-image-smoother](https://github.com/hi-z-k/leetcode/tree/master/0661-image-smoother) |
 | [1672-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hi-z-k/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
