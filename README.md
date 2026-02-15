@@ -80,6 +80,7 @@ A collection of LeetCode questions I have solved
 | [1833-find-the-highest-altitude](https://github.com/hi-z-k/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions I have solved
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hi-z-k/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hi-z-k/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions I have solved
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1904-second-largest-digit-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/hi-z-k/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions I have solved
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Dynamic Programming
 |  |
