@@ -95,6 +95,7 @@ A collection of LeetCode questions I have solved
 | [2714-left-and-right-sum-differences](https://github.com/hi-z-k/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hi-z-k/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3527-find-the-most-common-response](https://github.com/hi-z-k/leetcode/tree/master/3527-find-the-most-common-response) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions I have solved
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hi-z-k/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3447-clear-digits](https://github.com/hi-z-k/leetcode/tree/master/3447-clear-digits) |
+| [3527-find-the-most-common-response](https://github.com/hi-z-k/leetcode/tree/master/3527-find-the-most-common-response) |
 ## Stack
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions I have solved
 | [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hi-z-k/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hi-z-k/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3527-find-the-most-common-response](https://github.com/hi-z-k/leetcode/tree/master/3527-find-the-most-common-response) |
 ## Math
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions I have solved
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hi-z-k/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/hi-z-k/leetcode/tree/master/3527-find-the-most-common-response) |
 ## Bit Manipulation
 |  |
 | ------- |
