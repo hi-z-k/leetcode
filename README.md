@@ -94,6 +94,7 @@ A collection of LeetCode questions I have solved
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hi-z-k/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2714-left-and-right-sum-differences](https://github.com/hi-z-k/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/hi-z-k/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hi-z-k/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3527-find-the-most-common-response](https://github.com/hi-z-k/leetcode/tree/master/3527-find-the-most-common-response) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions I have solved
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hi-z-k/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/hi-z-k/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Linked List
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions I have solved
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/hi-z-k/leetcode/tree/master/2671-frequency-tracker) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/hi-z-k/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hi-z-k/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hi-z-k/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
