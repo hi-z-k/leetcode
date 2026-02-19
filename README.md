@@ -65,6 +65,7 @@ A collection of LeetCode questions I have solved
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/hi-z-k/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions I have solved
 | [1137-height-checker](https://github.com/hi-z-k/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hi-z-k/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions I have solved
 | [1319-unique-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hi-z-k/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hi-z-k/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions I have solved
 | [1122-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1122-relative-sort-array) |
 | [1137-height-checker](https://github.com/hi-z-k/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
