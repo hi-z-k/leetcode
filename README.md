@@ -178,6 +178,7 @@ A collection of LeetCode questions I have solved
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/hi-z-k/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hi-z-k/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/hi-z-k/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hi-z-k/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hi-z-k/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/hi-z-k/leetcode/tree/master/1528-shuffle-string) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions I have solved
 | [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/hi-z-k/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/hi-z-k/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/hi-z-k/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hi-z-k/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hi-z-k/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hi-z-k/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions I have solved
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/hi-z-k/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Dynamic Programming
