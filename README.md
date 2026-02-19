@@ -201,6 +201,7 @@ A collection of LeetCode questions I have solved
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hi-z-k/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3447-clear-digits](https://github.com/hi-z-k/leetcode/tree/master/3447-clear-digits) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hi-z-k/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/hi-z-k/leetcode/tree/master/3527-find-the-most-common-response) |
 ## Stack
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions I have solved
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hi-z-k/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/hi-z-k/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hi-z-k/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions I have solved
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hi-z-k/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
