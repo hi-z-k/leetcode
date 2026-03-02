@@ -87,6 +87,7 @@ A collection of LeetCode questions I have solved
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
+| [2381-shifting-letters-ii](https://github.com/hi-z-k/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2418-sort-the-people) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hi-z-k/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/hi-z-k/leetcode/tree/master/2486-most-frequent-even-element) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions I have solved
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2351-first-letter-to-appear-twice](https://github.com/hi-z-k/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
+| [2381-shifting-letters-ii](https://github.com/hi-z-k/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/hi-z-k/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions I have solved
 | [1833-find-the-highest-altitude](https://github.com/hi-z-k/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2381-shifting-letters-ii](https://github.com/hi-z-k/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2714-left-and-right-sum-differences](https://github.com/hi-z-k/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Greedy
 |  |
