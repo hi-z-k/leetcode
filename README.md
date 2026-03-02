@@ -34,6 +34,7 @@ A collection of LeetCode questions I have solved
 | [0268-missing-number](https://github.com/hi-z-k/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hi-z-k/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hi-z-k/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/hi-z-k/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/hi-z-k/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hi-z-k/leetcode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/hi-z-k/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hi-z-k/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hi-z-k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/hi-z-k/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/hi-z-k/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/hi-z-k/leetcode/tree/master/1046-max-consecutive-ones-iii) |
