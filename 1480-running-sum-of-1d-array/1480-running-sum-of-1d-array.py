@@ -1,9 +1,8 @@
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
-        sum = 0
-        prefixSum = []
+        curr_sum = 0
+        sum_list = []
         for num in nums:
-            sum += num
-            prefixSum.append(sum)
-        return prefixSum
-        
+            curr_sum += num
+            sum_list.append(curr_sum)
+        return sum_list
