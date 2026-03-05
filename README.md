@@ -53,6 +53,7 @@ A collection of LeetCode questions I have solved
 | [0724-find-pivot-index](https://github.com/hi-z-k/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hi-z-k/leetcode/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/hi-z-k/leetcode/tree/master/0811-subdomain-visit-count) |
+| [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/hi-z-k/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions I have solved
 | [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/hi-z-k/leetcode/tree/master/0953-reverse-only-letters) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions I have solved
 | [0442-find-all-duplicates-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hi-z-k/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/hi-z-k/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1014-k-closest-points-to-origin](https://github.com/hi-z-k/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions I have solved
 | [0179-largest-number](https://github.com/hi-z-k/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/hi-z-k/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/hi-z-k/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
