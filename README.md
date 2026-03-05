@@ -69,6 +69,7 @@ A collection of LeetCode questions I have solved
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hi-z-k/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/hi-z-k/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/hi-z-k/leetcode/tree/master/1528-shuffle-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions I have solved
 | [0739-daily-temperatures](https://github.com/hi-z-k/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/hi-z-k/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1598-crawler-log-folder) |
 | [1720-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1720-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/hi-z-k/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions I have solved
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hi-z-k/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/hi-z-k/leetcode/tree/master/2671-frequency-tracker) |
 ## Binary Search
@@ -306,6 +309,7 @@ A collection of LeetCode questions I have solved
 | [0237-delete-node-in-a-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
 | [2573-remove-nodes-from-linked-list](https://github.com/hi-z-k/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hi-z-k/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -562,6 +566,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
@@ -620,4 +625,8 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/hi-z-k/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
