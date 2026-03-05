@@ -169,6 +169,7 @@ A collection of LeetCode questions I have solved
 | [0179-largest-number](https://github.com/hi-z-k/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/hi-z-k/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hi-z-k/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/hi-z-k/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hi-z-k/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/hi-z-k/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions I have solved
 | [0229-majority-element-ii](https://github.com/hi-z-k/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hi-z-k/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hi-z-k/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/hi-z-k/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/hi-z-k/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
