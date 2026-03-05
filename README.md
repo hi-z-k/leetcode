@@ -88,6 +88,7 @@ A collection of LeetCode questions I have solved
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2381-shifting-letters-ii](https://github.com/hi-z-k/leetcode/tree/master/2381-shifting-letters-ii) |
