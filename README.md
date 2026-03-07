@@ -96,6 +96,7 @@ A collection of LeetCode questions I have solved
 | [2418-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2418-sort-the-people) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hi-z-k/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/hi-z-k/leetcode/tree/master/2486-most-frequent-even-element) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions I have solved
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/hi-z-k/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2128-reverse-prefix-of-word](https://github.com/hi-z-k/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions I have solved
 | [1741-sort-array-by-increasing-frequency](https://github.com/hi-z-k/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hi-z-k/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions I have solved
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2418-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2418-sort-the-people) |
 | [2486-most-frequent-even-element](https://github.com/hi-z-k/leetcode/tree/master/2486-most-frequent-even-element) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
