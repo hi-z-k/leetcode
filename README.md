@@ -251,6 +251,7 @@ A collection of LeetCode questions I have solved
 | [0933-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/hi-z-k/leetcode/tree/master/2671-frequency-tracker) |
 ## Binary Search
@@ -395,6 +396,7 @@ A collection of LeetCode questions I have solved
 | [2486-most-frequent-even-element](https://github.com/hi-z-k/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2502-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2502-sort-the-people) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hi-z-k/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/hi-z-k/leetcode/tree/master/2671-frequency-tracker) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions I have solved
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Counting
 |  |
@@ -496,6 +499,7 @@ A collection of LeetCode questions I have solved
 | [2351-first-letter-to-appear-twice](https://github.com/hi-z-k/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2486-most-frequent-even-element](https://github.com/hi-z-k/leetcode/tree/master/2486-most-frequent-even-element) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hi-z-k/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/hi-z-k/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -588,6 +592,7 @@ A collection of LeetCode questions I have solved
 | [0933-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
