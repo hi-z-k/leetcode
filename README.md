@@ -248,6 +248,7 @@ A collection of LeetCode questions I have solved
 | [0303-range-sum-query-immutable](https://github.com/hi-z-k/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hi-z-k/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0933-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Counting
@@ -583,6 +585,7 @@ A collection of LeetCode questions I have solved
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/hi-z-k/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/hi-z-k/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
