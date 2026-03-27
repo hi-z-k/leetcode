@@ -12,6 +12,7 @@ A collection of LeetCode questions I have solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hi-z-k/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hi-z-k/leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/hi-z-k/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/hi-z-k/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hi-z-k/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
@@ -674,4 +675,8 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/hi-z-k/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/hi-z-k/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
