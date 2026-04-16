@@ -195,6 +195,7 @@ A collection of LeetCode questions I have solved
 | [0609-find-duplicate-file-in-system](https://github.com/hi-z-k/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
 | [0811-subdomain-visit-count](https://github.com/hi-z-k/leetcode/tree/master/0811-subdomain-visit-count) |
+| [0856-score-of-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/hi-z-k/leetcode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions I have solved
 | [0234-palindrome-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hi-z-k/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/hi-z-k/leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/hi-z-k/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/hi-z-k/leetcode/tree/master/1472-design-browser-history) |
