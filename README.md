@@ -472,6 +472,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/hi-z-k/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Tree
 |  |
 | ------- |
@@ -481,6 +482,7 @@ A collection of LeetCode questions I have solved
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/hi-z-k/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hi-z-k/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hi-z-k/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
@@ -491,6 +493,7 @@ A collection of LeetCode questions I have solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/hi-z-k/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/hi-z-k/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hi-z-k/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
@@ -508,6 +511,7 @@ A collection of LeetCode questions I have solved
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/hi-z-k/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hi-z-k/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hi-z-k/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Queue
@@ -705,4 +709,8 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0046-permutations](https://github.com/hi-z-k/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/hi-z-k/leetcode/tree/master/0077-combinations) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/hi-z-k/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
