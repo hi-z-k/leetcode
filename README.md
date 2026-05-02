@@ -478,6 +478,7 @@ A collection of LeetCode questions I have solved
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hi-z-k/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hi-z-k/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -485,11 +486,13 @@ A collection of LeetCode questions I have solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/hi-z-k/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hi-z-k/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hi-z-k/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hi-z-k/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -498,6 +501,7 @@ A collection of LeetCode questions I have solved
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hi-z-k/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hi-z-k/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Queue
 |  |
 | ------- |
