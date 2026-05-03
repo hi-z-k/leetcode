@@ -345,6 +345,7 @@ A collection of LeetCode questions I have solved
 | [0234-palindrome-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/hi-z-k/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/hi-z-k/leetcode/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/hi-z-k/leetcode/tree/master/1922-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/hi-z-k/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -445,6 +446,7 @@ A collection of LeetCode questions I have solved
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hi-z-k/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/hi-z-k/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hi-z-k/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1922-count-good-numbers](https://github.com/hi-z-k/leetcode/tree/master/1922-count-good-numbers) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hi-z-k/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/hi-z-k/leetcode/tree/master/2413-smallest-even-multiple) |
