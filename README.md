@@ -58,6 +58,7 @@ A collection of LeetCode questions I have solved
 | [0724-find-pivot-index](https://github.com/hi-z-k/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hi-z-k/leetcode/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/hi-z-k/leetcode/tree/master/0811-subdomain-visit-count) |
+| [0860-lemonade-change](https://github.com/hi-z-k/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions I have solved
 | [0179-largest-number](https://github.com/hi-z-k/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
+| [0860-lemonade-change](https://github.com/hi-z-k/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/hi-z-k/leetcode/tree/master/0976-largest-perimeter-triangle) |
