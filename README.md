@@ -67,6 +67,7 @@ A collection of LeetCode questions I have solved
 | [0992-subarrays-with-k-different-integers](https://github.com/hi-z-k/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/hi-z-k/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/hi-z-k/leetcode/tree/master/1029-two-city-scheduling) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/hi-z-k/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1122-relative-sort-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions I have solved
 | [0976-largest-perimeter-triangle](https://github.com/hi-z-k/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1014-k-closest-points-to-origin](https://github.com/hi-z-k/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/hi-z-k/leetcode/tree/master/1029-two-city-scheduling) |
 | [1122-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1122-relative-sort-array) |
 | [1137-height-checker](https://github.com/hi-z-k/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions I have solved
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/hi-z-k/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/hi-z-k/leetcode/tree/master/1029-two-city-scheduling) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/hi-z-k/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/hi-z-k/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
