@@ -61,6 +61,7 @@ A collection of LeetCode questions I have solved
 | [0739-daily-temperatures](https://github.com/hi-z-k/leetcode/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/hi-z-k/leetcode/tree/master/0811-subdomain-visit-count) |
 | [0860-lemonade-change](https://github.com/hi-z-k/leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0258-add-digits](https://github.com/hi-z-k/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hi-z-k/leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/hi-z-k/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/hi-z-k/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0661-image-smoother](https://github.com/hi-z-k/leetcode/tree/master/0661-image-smoother) |
+| [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hi-z-k/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
