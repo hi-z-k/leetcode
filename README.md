@@ -16,6 +16,7 @@ A collection of LeetCode questions I have solved
 | [0049-group-anagrams](https://github.com/hi-z-k/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hi-z-k/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/hi-z-k/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hi-z-k/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions I have solved
 | [0012-integer-to-roman](https://github.com/hi-z-k/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hi-z-k/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/hi-z-k/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/hi-z-k/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hi-z-k/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hi-z-k/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hi-z-k/leetcode/tree/master/0141-linked-list-cycle) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions I have solved
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/hi-z-k/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0661-image-smoother](https://github.com/hi-z-k/leetcode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
