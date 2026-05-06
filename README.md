@@ -53,6 +53,7 @@ A collection of LeetCode questions I have solved
 | [0485-max-consecutive-ones](https://github.com/hi-z-k/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/hi-z-k/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/hi-z-k/leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/hi-z-k/leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/hi-z-k/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hi-z-k/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/hi-z-k/leetcode/tree/master/0609-find-duplicate-file-in-system) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions I have solved
 | [0054-spiral-matrix](https://github.com/hi-z-k/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/hi-z-k/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hi-z-k/leetcode/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/hi-z-k/leetcode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/hi-z-k/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions I have solved
 | [0054-spiral-matrix](https://github.com/hi-z-k/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hi-z-k/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0498-diagonal-traverse](https://github.com/hi-z-k/leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/hi-z-k/leetcode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1672-richest-customer-wealth) |
