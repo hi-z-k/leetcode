@@ -64,6 +64,7 @@ A collection of LeetCode questions I have solved
 | [0724-find-pivot-index](https://github.com/hi-z-k/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hi-z-k/leetcode/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/hi-z-k/leetcode/tree/master/0811-subdomain-visit-count) |
+| [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/hi-z-k/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions I have solved
 | [0567-permutation-in-string](https://github.com/hi-z-k/leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
+| [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/hi-z-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions I have solved
 | [0258-add-digits](https://github.com/hi-z-k/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hi-z-k/leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/hi-z-k/leetcode/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/hi-z-k/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions I have solved
 | [0287-find-the-duplicate-number](https://github.com/hi-z-k/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/hi-z-k/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/hi-z-k/leetcode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hi-z-k/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/hi-z-k/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
@@ -658,6 +662,7 @@ A collection of LeetCode questions I have solved
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/hi-z-k/leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/hi-z-k/leetcode/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hi-z-k/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1672-richest-customer-wealth) |
