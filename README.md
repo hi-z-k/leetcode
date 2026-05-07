@@ -39,6 +39,7 @@ A collection of LeetCode questions I have solved
 | [0229-majority-element-ii](https://github.com/hi-z-k/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/hi-z-k/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hi-z-k/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/hi-z-k/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/hi-z-k/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hi-z-k/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/hi-z-k/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions I have solved
 | [0229-majority-element-ii](https://github.com/hi-z-k/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hi-z-k/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hi-z-k/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/hi-z-k/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/hi-z-k/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions I have solved
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/hi-z-k/leetcode/tree/master/0274-h-index) |
 | [1122-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1122-relative-sort-array) |
 | [1137-height-checker](https://github.com/hi-z-k/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hi-z-k/leetcode/tree/master/1217-relative-sort-array) |
