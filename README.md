@@ -494,6 +494,7 @@ A collection of LeetCode questions I have solved
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hi-z-k/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/hi-z-k/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/hi-z-k/leetcode/tree/master/1922-count-good-numbers) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/hi-z-k/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hi-z-k/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/hi-z-k/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions I have solved
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/hi-z-k/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/hi-z-k/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/hi-z-k/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Dynamic Programming
 |  |
