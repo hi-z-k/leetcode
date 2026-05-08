@@ -64,6 +64,7 @@ A collection of LeetCode questions I have solved
 | [0722-remove-comments](https://github.com/hi-z-k/leetcode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/hi-z-k/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hi-z-k/leetcode/tree/master/0739-daily-temperatures) |
+| [0781-rabbits-in-forest](https://github.com/hi-z-k/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0811-subdomain-visit-count](https://github.com/hi-z-k/leetcode/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/hi-z-k/leetcode/tree/master/0860-lemonade-change) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions I have solved
 | [0697-degree-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/0697-degree-of-an-array) |
 | [0763-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/hi-z-k/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/hi-z-k/leetcode/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/hi-z-k/leetcode/tree/master/0811-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions I have solved
 | [0412-fizz-buzz](https://github.com/hi-z-k/leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/hi-z-k/leetcode/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0781-rabbits-in-forest](https://github.com/hi-z-k/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/hi-z-k/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/hi-z-k/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/hi-z-k/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions I have solved
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0768-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/hi-z-k/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/hi-z-k/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
