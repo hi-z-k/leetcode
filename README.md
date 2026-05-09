@@ -210,6 +210,7 @@ A collection of LeetCode questions I have solved
 | [0205-isomorphic-strings](https://github.com/hi-z-k/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hi-z-k/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/hi-z-k/leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hi-z-k/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/hi-z-k/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions I have solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/hi-z-k/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hi-z-k/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hi-z-k/leetcode/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hi-z-k/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/hi-z-k/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
@@ -793,6 +795,7 @@ A collection of LeetCode questions I have solved
 | [0046-permutations](https://github.com/hi-z-k/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hi-z-k/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/hi-z-k/leetcode/tree/master/0077-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Hash Function
 |  |
 | ------- |
