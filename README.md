@@ -117,6 +117,7 @@ A collection of LeetCode questions I have solved
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2381-shifting-letters-ii](https://github.com/hi-z-k/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2418-sort-the-people) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions I have solved
 | [0389-find-the-difference](https://github.com/hi-z-k/leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hi-z-k/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2351-first-letter-to-appear-twice](https://github.com/hi-z-k/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -684,6 +686,7 @@ A collection of LeetCode questions I have solved
 | [1013-fibonacci-number](https://github.com/hi-z-k/leetcode/tree/master/1013-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hi-z-k/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hi-z-k/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -800,6 +803,7 @@ A collection of LeetCode questions I have solved
 | [0077-combinations](https://github.com/hi-z-k/leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/hi-z-k/leetcode/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Hash Function
 |  |
 | ------- |
@@ -812,4 +816,8 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/hi-z-k/leetcode/tree/master/0278-first-bad-version) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
