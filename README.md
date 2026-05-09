@@ -15,6 +15,7 @@ A collection of LeetCode questions I have solved
 | [0046-permutations](https://github.com/hi-z-k/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/hi-z-k/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/hi-z-k/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/hi-z-k/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hi-z-k/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hi-z-k/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions I have solved
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hi-z-k/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/hi-z-k/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/hi-z-k/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/hi-z-k/leetcode/tree/master/0077-combinations) |
 ## Hash Function
 |  |
