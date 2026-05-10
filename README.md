@@ -239,6 +239,7 @@ A collection of LeetCode questions I have solved
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/hi-z-k/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hi-z-k/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hi-z-k/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hi-z-k/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1528-shuffle-string](https://github.com/hi-z-k/leetcode/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hi-z-k/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions I have solved
 | [0090-subsets-ii](https://github.com/hi-z-k/leetcode/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/hi-z-k/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hi-z-k/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Hash Function
 |  |
