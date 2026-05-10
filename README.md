@@ -56,6 +56,7 @@ A collection of LeetCode questions I have solved
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/hi-z-k/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/hi-z-k/leetcode/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/hi-z-k/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/hi-z-k/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/hi-z-k/leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/hi-z-k/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions I have solved
 | [0438-find-all-anagrams-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hi-z-k/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/hi-z-k/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/hi-z-k/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hi-z-k/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hi-z-k/leetcode/tree/master/0567-permutation-in-string) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions I have solved
 | [0287-find-the-duplicate-number](https://github.com/hi-z-k/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/hi-z-k/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/hi-z-k/leetcode/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/hi-z-k/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hi-z-k/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions I have solved
 | [0077-combinations](https://github.com/hi-z-k/leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/hi-z-k/leetcode/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0491-non-decreasing-subsequences](https://github.com/hi-z-k/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Hash Function
 |  |
