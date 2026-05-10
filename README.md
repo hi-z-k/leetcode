@@ -214,6 +214,7 @@ A collection of LeetCode questions I have solved
 | [0242-valid-anagram](https://github.com/hi-z-k/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/hi-z-k/leetcode/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/hi-z-k/leetcode/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hi-z-k/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/hi-z-k/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions I have solved
 | [0077-combinations](https://github.com/hi-z-k/leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/hi-z-k/leetcode/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/hi-z-k/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/hi-z-k/leetcode/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/hi-z-k/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hi-z-k/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
