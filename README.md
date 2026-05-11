@@ -54,6 +54,7 @@ A collection of LeetCode questions I have solved
 | [0413-arithmetic-slices](https://github.com/hi-z-k/leetcode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/hi-z-k/leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/hi-z-k/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/hi-z-k/leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/hi-z-k/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions I have solved
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/hi-z-k/leetcode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/hi-z-k/leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hi-z-k/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions I have solved
 | [0287-find-the-duplicate-number](https://github.com/hi-z-k/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-z-k/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hi-z-k/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/hi-z-k/leetcode/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/hi-z-k/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/hi-z-k/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hi-z-k/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions I have solved
 | [0442-find-all-duplicates-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hi-z-k/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/hi-z-k/leetcode/tree/master/0475-heaters) |
 | [0791-custom-sort-string](https://github.com/hi-z-k/leetcode/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
