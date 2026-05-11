@@ -121,6 +121,7 @@ A collection of LeetCode questions I have solved
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/hi-z-k/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/hi-z-k/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2381-shifting-letters-ii](https://github.com/hi-z-k/leetcode/tree/master/2381-shifting-letters-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions I have solved
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hi-z-k/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/hi-z-k/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/hi-z-k/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
 |  |
 | ------- |
