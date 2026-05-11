@@ -20,6 +20,7 @@ A collection of LeetCode questions I have solved
 | [0054-spiral-matrix](https://github.com/hi-z-k/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hi-z-k/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/hi-z-k/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/hi-z-k/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hi-z-k/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hi-z-k/leetcode/tree/master/0090-subsets-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions I have solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hi-z-k/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/hi-z-k/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hi-z-k/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hi-z-k/leetcode/tree/master/0125-valid-palindrome) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions I have solved
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hi-z-k/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/hi-z-k/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hi-z-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/hi-z-k/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/hi-z-k/leetcode/tree/master/0169-majority-element) |
