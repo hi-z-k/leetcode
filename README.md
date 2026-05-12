@@ -67,6 +67,7 @@ A collection of LeetCode questions I have solved
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hi-z-k/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/hi-z-k/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/hi-z-k/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/hi-z-k/leetcode/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/hi-z-k/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/hi-z-k/leetcode/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/0697-degree-of-an-array) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions I have solved
 | [0451-sort-characters-by-frequency](https://github.com/hi-z-k/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/hi-z-k/leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/hi-z-k/leetcode/tree/master/0475-heaters) |
+| [0645-set-mismatch](https://github.com/hi-z-k/leetcode/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/hi-z-k/leetcode/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions I have solved
 | [0567-permutation-in-string](https://github.com/hi-z-k/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hi-z-k/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/hi-z-k/leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0645-set-mismatch](https://github.com/hi-z-k/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hi-z-k/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/0697-degree-of-an-array) |
 | [0763-partition-labels](https://github.com/hi-z-k/leetcode/tree/master/0763-partition-labels) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions I have solved
 | [0342-power-of-four](https://github.com/hi-z-k/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/hi-z-k/leetcode/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/hi-z-k/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0645-set-mismatch](https://github.com/hi-z-k/leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hi-z-k/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
