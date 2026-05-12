@@ -252,6 +252,7 @@ A collection of LeetCode questions I have solved
 | [1598-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hi-z-k/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1720-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1720-crawler-log-folder) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/hi-z-k/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1904-second-largest-digit-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/hi-z-k/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hi-z-k/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions I have solved
 ## Enumeration
 |  |
 | ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/hi-z-k/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Data Stream
 |  |
@@ -831,6 +833,7 @@ A collection of LeetCode questions I have solved
 | [0306-additive-number](https://github.com/hi-z-k/leetcode/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/hi-z-k/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hi-z-k/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/hi-z-k/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/hi-z-k/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Hash Function
