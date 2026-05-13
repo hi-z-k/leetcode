@@ -110,6 +110,7 @@ A collection of LeetCode questions I have solved
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hi-z-k/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/hi-z-k/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hi-z-k/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/hi-z-k/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/hi-z-k/leetcode/tree/master/1598-crawler-log-folder) |
 | [1603-running-sum-of-1d-array](https://github.com/hi-z-k/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/hi-z-k/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions I have solved
 | [1468-check-if-n-and-its-double-exist](https://github.com/hi-z-k/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hi-z-k/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/hi-z-k/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/hi-z-k/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hi-z-k/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hi-z-k/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions I have solved
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/hi-z-k/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/hi-z-k/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hi-z-k/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/hi-z-k/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1603-running-sum-of-1d-array](https://github.com/hi-z-k/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/hi-z-k/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hi-z-k/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -711,6 +714,7 @@ A collection of LeetCode questions I have solved
 | [1029-two-city-scheduling](https://github.com/hi-z-k/leetcode/tree/master/1029-two-city-scheduling) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/hi-z-k/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/hi-z-k/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/hi-z-k/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/hi-z-k/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
