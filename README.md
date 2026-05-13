@@ -81,6 +81,7 @@ A collection of LeetCode questions I have solved
 | [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/hi-z-k/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/hi-z-k/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/hi-z-k/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions I have solved
 | [0781-rabbits-in-forest](https://github.com/hi-z-k/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/hi-z-k/leetcode/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/hi-z-k/leetcode/tree/master/0811-subdomain-visit-count) |
+| [0930-binary-subarrays-with-sum](https://github.com/hi-z-k/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hi-z-k/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/hi-z-k/leetcode/tree/master/1044-find-common-characters) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions I have solved
 | [0438-find-all-anagrams-in-a-string](https://github.com/hi-z-k/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hi-z-k/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/hi-z-k/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/hi-z-k/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hi-z-k/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/hi-z-k/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions I have solved
 | [0304-range-sum-query-2d-immutable](https://github.com/hi-z-k/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/hi-z-k/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/hi-z-k/leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/hi-z-k/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hi-z-k/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hi-z-k/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/hi-z-k/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
