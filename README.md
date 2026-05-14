@@ -80,6 +80,7 @@ A collection of LeetCode questions I have solved
 | [0860-lemonade-change](https://github.com/hi-z-k/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0881-boats-to-save-people) |
+| [0885-spiral-matrix-iii](https://github.com/hi-z-k/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0917-boats-to-save-people](https://github.com/hi-z-k/leetcode/tree/master/0917-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/hi-z-k/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/hi-z-k/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions I have solved
 | [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/hi-z-k/leetcode/tree/master/0874-backspace-string-compare) |
+| [0885-spiral-matrix-iii](https://github.com/hi-z-k/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/hi-z-k/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/hi-z-k/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/hi-z-k/leetcode/tree/master/2058-concatenation-of-array) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions I have solved
 | [0661-image-smoother](https://github.com/hi-z-k/leetcode/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/hi-z-k/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hi-z-k/leetcode/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/hi-z-k/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hi-z-k/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/hi-z-k/leetcode/tree/master/1791-richest-customer-wealth) |
