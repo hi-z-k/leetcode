@@ -133,6 +133,7 @@ A collection of LeetCode questions I have solved
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/hi-z-k/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/hi-z-k/leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/hi-z-k/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2378-sender-with-largest-word-count](https://github.com/hi-z-k/leetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2381-shifting-letters-ii](https://github.com/hi-z-k/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/hi-z-k/leetcode/tree/master/2418-sort-the-people) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions I have solved
 | [2139-minimum-moves-to-reach-target-score](https://github.com/hi-z-k/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hi-z-k/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/hi-z-k/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/hi-z-k/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2413-smallest-even-multiple](https://github.com/hi-z-k/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hi-z-k/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2469-convert-the-temperature](https://github.com/hi-z-k/leetcode/tree/master/2469-convert-the-temperature) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions I have solved
 | [2007-find-original-array-from-doubled-array](https://github.com/hi-z-k/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/hi-z-k/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/hi-z-k/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/hi-z-k/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/hi-z-k/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
